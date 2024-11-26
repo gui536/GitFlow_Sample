@@ -22,7 +22,7 @@
                 Text="Hello!"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+                SemanticProperties.Description="Hello!" />
 
             <Button
                 x:Name="CounterBtn"
